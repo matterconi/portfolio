@@ -1,36 +1,68 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Portfolio 2024
 
-## Getting Started
+My first personal developer portfolio, built to showcase projects, skills, and experiments while exploring modern frontend development and interactive UI design.
 
-First, run the development server:
+## Overview
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Portfolio 2024 was my first serious attempt at creating a personal website as a developer.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+The project served both as a showcase for my work and as an opportunity to experiment with modern UI libraries, component composition, and interactive frontend experiences.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Built using Next.js and inspired by Aceternity UI, the portfolio combined reusable components, animations, and responsive layouts into a single application.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Tech Stack
 
-## Learn More
+* Next.js
+* React
+* JavaScript
+* Tailwind CSS
+* Aceternity UI
 
-To learn more about Next.js, take a look at the following resources:
+## Features
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+* Personal portfolio website
+* Project showcase section
+* Skills and experience overview
+* Responsive design
+* Interactive UI components
+* Modern visual design system
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Why I Built It
 
-## Deploy on Vercel
+The goal was to create a space where I could present my projects, document my progress, and start building a professional online presence.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+At the same time, the project became an opportunity to study how modern frontend interfaces are structured and how design systems can accelerate development.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Key Learnings
+
+* Next.js fundamentals
+* Component-based architecture
+* Tailwind CSS workflows
+* Design system integration
+* Responsive layout development
+* Portfolio design principles
+* User experience considerations
+
+## Technical Highlights
+
+### Aceternity UI Exploration
+
+One of the main objectives was learning how to work with advanced component libraries and adapt pre-built design patterns into a cohesive portfolio experience.
+
+### Reusable Components
+
+The project reinforced the importance of building modular components that could be reused across multiple sections of the application.
+
+### Personal Branding
+
+Beyond technical implementation, this was my first attempt at translating my skills, projects, and interests into a coherent online identity.
+
+## Historical Context
+
+Portfolio 2024 represents an important milestone in my development journey.
+
+While later projects introduced custom animations, WebGL, AI integrations, and more advanced architectures, this portfolio laid the foundation for how I think about design, presentation, and developer branding today.
+
+## Status
+
+Archived project — maintained as part of my development history and personal growth as a developer.
